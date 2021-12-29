@@ -1,0 +1,14 @@
+.temperature-component {
+  display: flex;
+
+  .temperature {
+    font-size: 160px;
+    color: #333;
+  }
+
+  .symbol {
+    font-size: 48px;
+    margin-top: 24px;
+    color: #333;
+  }
+}
